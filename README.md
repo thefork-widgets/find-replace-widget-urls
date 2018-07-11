@@ -1,2 +1,2 @@
 # find-replaceWidgetURLS
-Find and replace the widget urls in a website
+Find and replace links for widget urls instead in a website
