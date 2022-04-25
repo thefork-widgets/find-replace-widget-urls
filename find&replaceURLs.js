@@ -1,5 +1,6 @@
 <script type="text/javascript">
        window.onload= function(){
+       //Cambio en GIT
  	       var a = document.getElementsByTagName("a");
               var i;
               for (i = 0; i < a.length; i++) {
